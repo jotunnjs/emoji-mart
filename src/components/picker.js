@@ -551,7 +551,7 @@ Picker.defaultProps = {
   perLine: 9,
   i18n: {},
   style: {},
-  title: 'Emoji Mart™',
+  title: '',
   emoji: 'department_store',
   color: '#ae65c5',
   set: Emoji.defaultProps.set,
